@@ -1,0 +1,29 @@
+﻿<Properties StartupConfiguration="{F3DD9429-8FEF-46D4-A1F3-35DDFD573BB4}|Default">
+  <MonoDevelop.Ide.ItemProperties.VendingMachineAssignment PreferredExecutionTarget="MonoDevelop.Default" FirstBuild="True" />
+  <MultiItemStartupConfigurations />
+  <MonoDevelop.Ide.DebuggingService.PinnedWatches />
+  <MonoDevelop.Ide.Workspace ActiveConfiguration="Debug" />
+  <MonoDevelop.Ide.Workbench ActiveDocument="VendingMachineAssignment/VendingMachine.cs">
+    <Files>
+      <File FileName="VendingMachineAssignment/Program.cs" Line="126" Column="6" />
+      <File FileName="VendingMachineAssignment/Denomination.cs" />
+      <File FileName="VendingMachineAssignment/IVending.cs" />
+      <File FileName="VendingMachineAssignment/Product.cs" Line="80" Column="2" />
+      <File FileName="VendingMachineAssignment/VendingMachine.cs" Line="1" Column="1" />
+    </Files>
+    <Pads>
+      <Pad Id="ProjectPad">
+        <State name="__root__">
+          <Node name="VendingMachineAssignment" expanded="True">
+            <Node name="VendingMachineAssignment" expanded="True">
+              <Node name="VendingMachine.cs" selected="True" />
+            </Node>
+          </Node>
+        </State>
+      </Pad>
+    </Pads>
+  </MonoDevelop.Ide.Workbench>
+  <MonoDevelop.Ide.DebuggingService.Breakpoints>
+    <BreakpointStore />
+  </MonoDevelop.Ide.DebuggingService.Breakpoints>
+</Properties>

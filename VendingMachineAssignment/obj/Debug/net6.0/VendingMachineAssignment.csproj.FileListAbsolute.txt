@@ -1,0 +1,15 @@
+/Users/jhenessholm/Projects/VendingMachineAssignment/VendingMachineAssignment/bin/Debug/net6.0/VendingMachineAssignment
+/Users/jhenessholm/Projects/VendingMachineAssignment/VendingMachineAssignment/bin/Debug/net6.0/VendingMachineAssignment.deps.json
+/Users/jhenessholm/Projects/VendingMachineAssignment/VendingMachineAssignment/bin/Debug/net6.0/VendingMachineAssignment.runtimeconfig.json
+/Users/jhenessholm/Projects/VendingMachineAssignment/VendingMachineAssignment/bin/Debug/net6.0/VendingMachineAssignment.dll
+/Users/jhenessholm/Projects/VendingMachineAssignment/VendingMachineAssignment/bin/Debug/net6.0/VendingMachineAssignment.pdb
+/Users/jhenessholm/Projects/VendingMachineAssignment/VendingMachineAssignment/obj/Debug/net6.0/VendingMachineAssignment.csproj.AssemblyReference.cache
+/Users/jhenessholm/Projects/VendingMachineAssignment/VendingMachineAssignment/obj/Debug/net6.0/VendingMachineAssignment.GeneratedMSBuildEditorConfig.editorconfig
+/Users/jhenessholm/Projects/VendingMachineAssignment/VendingMachineAssignment/obj/Debug/net6.0/VendingMachineAssignment.AssemblyInfoInputs.cache
+/Users/jhenessholm/Projects/VendingMachineAssignment/VendingMachineAssignment/obj/Debug/net6.0/VendingMachineAssignment.AssemblyInfo.cs
+/Users/jhenessholm/Projects/VendingMachineAssignment/VendingMachineAssignment/obj/Debug/net6.0/VendingMachineAssignment.csproj.CoreCompileInputs.cache
+/Users/jhenessholm/Projects/VendingMachineAssignment/VendingMachineAssignment/obj/Debug/net6.0/VendingMachineAssignment.dll
+/Users/jhenessholm/Projects/VendingMachineAssignment/VendingMachineAssignment/obj/Debug/net6.0/refint/VendingMachineAssignment.dll
+/Users/jhenessholm/Projects/VendingMachineAssignment/VendingMachineAssignment/obj/Debug/net6.0/VendingMachineAssignment.pdb
+/Users/jhenessholm/Projects/VendingMachineAssignment/VendingMachineAssignment/obj/Debug/net6.0/VendingMachineAssignment.genruntimeconfig.cache
+/Users/jhenessholm/Projects/VendingMachineAssignment/VendingMachineAssignment/obj/Debug/net6.0/ref/VendingMachineAssignment.dll
